@@ -1,24 +1,19 @@
-// truthy or falsy
-
+// Truthy or Falsy
 // 0 => false
 // 1 => true
-
 // '' => false
 
 console.log(0 == false);
 //true
 console.log(1 == true);
 //true
-
 console.log('' == false);
 //true
 
 // undefined
-
 // null => Empty ou Nothing
 
 let myVar;
-
 let varNull = null;
 
 console.log(myVar);
